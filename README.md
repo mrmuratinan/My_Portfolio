@@ -2,8 +2,6 @@ Front-end web development Projects
 
 Here are some sample websites that I made using HTML, CSS and Bootstrap.
 
-Projects
-
 . Space Station Site
 
 . Movie Theater Site
